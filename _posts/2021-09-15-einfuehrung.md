@@ -1,6 +1,6 @@
 ---
 title: "Einführungsartikel"
-date: 2021-09-20
+date: 2021-09-15
 ---
 
 Ich erwarte von diesem Kurs einen Einblick in einen Teilbereich der angewandten Informatik zu kriegen, in dem ich bisher noch keine berufliche Erfahrungen machen konnte: Die Bibliotheks- bzw. Archivinformatik.
