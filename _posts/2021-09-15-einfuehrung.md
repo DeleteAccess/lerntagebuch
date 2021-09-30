@@ -3,7 +3,7 @@ title: "Einführungsartikel"
 date: 2021-09-15
 ---
 
-Ich erwarte von diesem Kurs einen Einblick in einen Teilbereich der angewandten Informatik zu kriegen, in dem ich bisher noch keine beruflichen Erfahrungen machen konnte: Die Bibliotheks- bzw. Archivinformatik. Offensichtlich ist dies der Name des Moduls, jedoch kann ich mir selbst darunter noch nicht viel Konkretes vorstellen.
+Am Anfang steht die Frage: «Was ist von diesem Modul zu erwarten?» Im gleichen Atemzug kommt der Gedanke: «Wohin wird die Reise gehen?», denn dies steht im direkten Zusammenhang zu den Erwartungen. Dementsprechend kann ich sagen, dass ich erwarte in diesem Kurs einen Einblick in einen Teilbereich der angewandten Informatik zu kriegen, in dem ich bisher noch keine beruflichen Erfahrungen machen konnte: Die Bibliotheks- bzw. Archivinformatik. Offensichtlich ist dies der Name des Moduls, jedoch kann ich mir selbst darunter noch nicht viel Konkretes vorstellen.
 
 In meinem Beruf als Software Entwickler in einem Datamart habe ich bisher keine Erfahrung mit Metadaten gehabt und was informationswissenschaftliche Systeme angeht, wären da bestenfalls Datenbanken, Datenverarbeitungssysteme und Frontend-Applikationen zu nennen.
 
